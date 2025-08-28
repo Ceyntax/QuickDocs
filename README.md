@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="120" alt="QuickDocs Logo">
+  <img src="Qdocs.png" width="120" alt="QuickDocs Logo">
 </p>
 
 <h1 align="center">QuickDocs</h1>
