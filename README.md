@@ -8,7 +8,8 @@
 ---
 
 ## 📥 Download
-👉 [Download QuickDocs v1.0.0](https://github.com/your-username/QuickDocs/releases/latest](https://github.com/Ceyntax/QuickDocs/releases/tag/v1.0.0-alpha))
+👉 [Download QuickDocs v1.0.0](https://github.com/Ceyntax/QuickDocs/releases/tag/v1.0.0-alpha)
+
 
 ---
 
