@@ -49,8 +49,9 @@ QuickDocs is a powerful and easy-to-use document conversion suite designed to ha
 - Remove image background  
 - Convert between image formats  
 - Resize images
+  
 
-- ## 🐞 Bug Fixes
+## 🐞 Bug Fixes
    
 ✅ Fixed PDF to Image conversion issue in the previous version.  
 ✅Improved stability and reliability when handling files.  
