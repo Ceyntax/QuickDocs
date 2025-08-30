@@ -8,7 +8,7 @@
 ---
 
 ## 📥 Download
-👉 [Download QuickDocs v1.0.0](https://github.com/Ceyntax/QuickDocs/releases/tag/v1.0.0-alpha)
+👉 [Download QuickDocs v1.1.0](https://github.com/Ceyntax/QuickDocs/releases/tag/v1.0.0-alpha)
 
 One Suite for All Your Document Conversions. 
 
@@ -48,7 +48,14 @@ QuickDocs is a powerful and easy-to-use document conversion suite designed to ha
 - BMP to PNG  
 - Remove image background  
 - Convert between image formats  
-- Resize images  
+- Resize images
+
+- ## 🐞 Bug Fixes
+   
+✅ Fixed PDF to Image conversion issue in the previous version.  
+✅Improved stability and reliability when handling files.  
+
+
 
 ---
 
